@@ -1,9 +1,5 @@
-# EVM Test
+# EVM 
 This project is designed for deploying smart contracts on EVM-compatible testnets using Hardhat 3.
-
-## Why this project exist? 
-The goal is to reduce dependency on other teams for E2E testing. Instead of waiting for a new chain to be deployed and waiting for mint/burn testing, we can deploy our own token to a testnet.
-Deploying tokens often takes extra effort, but with reusable code, the process becomes much simpler and faster.
 
 ## Prequisites
 * Node.js - 23.9.0
